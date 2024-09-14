@@ -1,0 +1,36 @@
+{
+    "faturamento_diario": [
+      {"dia": 1, "faturamento": 1500},
+      {"dia": 2, "faturamento": 1600},
+      {"dia": 3, "faturamento": 1700},
+      {"dia": 4, "faturamento": 1800},
+      {"dia": 5, "faturamento": 1900},
+      {"dia": 6, "faturamento": 0},
+      {"dia": 7, "faturamento": 0},
+      {"dia": 8, "faturamento": 2000},
+      {"dia": 9, "faturamento": 2100},
+      {"dia": 10, "faturamento": 2200},
+      {"dia": 11, "faturamento": 2300},
+      {"dia": 12, "faturamento": 2400},
+      {"dia": 13, "faturamento": 0},
+      {"dia": 14, "faturamento": 0},
+      {"dia": 15, "faturamento": 2500},
+      {"dia": 16, "faturamento": 2600},
+      {"dia": 17, "faturamento": 2700},
+      {"dia": 18, "faturamento": 2800},
+      {"dia": 19, "faturamento": 2900},
+      {"dia": 20, "faturamento": 0},
+      {"dia": 21, "faturamento": 0},
+      {"dia": 22, "faturamento": 3000},
+      {"dia": 23, "faturamento": 3100},
+      {"dia": 24, "faturamento": 3200},
+      {"dia": 25, "faturamento": 3300},
+      {"dia": 26, "faturamento": 3400},
+      {"dia": 27, "faturamento": 0},
+      {"dia": 28, "faturamento": 0},
+      {"dia": 29, "faturamento": 3500},
+      {"dia": 30, "faturamento": 3600}
+    ]
+  }
+  
+  
